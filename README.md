@@ -7,17 +7,9 @@ Script ini di buat dengan menggunakan Bash
 ## cara install
                   kecil semua
 
-<> PKG install figlet && PKG install toilet
-
-<> PKG install jq && PKG install cURL
-
-<> PKG install gem && gem install lolcat
-
-<> PKG install git
-
-<> PKG install Dash
-
 <> sh -c "git clone https://github.com/Bayu12345677/kang-bakso"
+
+               bash require.txt
 
 <[]> cd kang-bakso
 
