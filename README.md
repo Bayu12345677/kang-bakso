@@ -7,13 +7,13 @@ Script ini di buat dengan menggunakan Bash
 ## cara install
                   kecil semua
 
-<> sh -c "git clone https://github.com/Bayu12345677/kang-bakso"
+          sh -c "git clone https://github.com/Bayu12345677/kang-bakso"
+  
+          bash require.txt
 
-> bash require.txt
+          cd kang-bakso
 
-> cd kang-bakso
-
->> bash bakso.sh -h
+          bash bakso.sh -h
 
 
               [>>] -h.         => bantuan
