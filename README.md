@@ -9,7 +9,7 @@ Script ini di buat dengan menggunakan Bash
 
 <> sh -c "git clone https://github.com/Bayu12345677/kang-bakso"
 
-                 [>>] bash require.txt
+> bash require.txt >
 
 <[]> cd kang-bakso
 
