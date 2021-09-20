@@ -11,13 +11,17 @@ Script ini di buat dengan menggunakan Bash
 
 > bash require.txt
 
-<[]> cd kang-bakso
+\\ cd kang-bakso
 
 >> bash bakso.sh -h
 
 
               [>>] -h.         => bantuan
               [~>] -j / --join => login script
+
+
+
+
 
 Jng lupa subrek Admin
 
