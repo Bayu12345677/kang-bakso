@@ -5,7 +5,7 @@ Script ini di buat untuk trol tmen kalian
 Script ini di buat dengan menggunakan Bash
 
 ## cara install
-   kecil semua
+kecil semua
 
 <> PKG install figlet && PKG install toilet
 
