@@ -29,7 +29,7 @@ Script ini di buat dengan menggunakan Bash
 
 Jng lupa subrek Admin
 
-[Yt](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
+[     Youtube](https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg)
 
 
 >> budidayakan subrek <<<
