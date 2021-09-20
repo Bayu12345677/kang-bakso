@@ -15,8 +15,9 @@ Script ini di buat dengan menggunakan Bash
 
           bash bakso.sh -h
 
+                       Option
 
-              [>>] -h.         => bantuan
+              [>>] -h          => bantuan
               [~>] -j / --join => login script
 
 
